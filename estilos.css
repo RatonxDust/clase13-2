@@ -1,0 +1,16 @@
+.colorAzul{
+    color: blue
+}
+.colorCafe{
+    color: rgb(255, 255, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.estilos p{
+    color: chocolate;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
